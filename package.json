@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "connect": ">= 2.3.6",
-    "express": "2.5.11",
+    "express": "4.19.2",
     "jade": ">= 0.26.3",
     "request": "2.9.153",
     "hiredis": "0.1.14",
